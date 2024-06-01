@@ -635,3 +635,8 @@ contract MagicalTuxToken is ERC20 {
         _mint(msg.sender, 1000000000 * (10 ** decimals()));
     }
 }
+{
+  "opRetro": {
+    "projectId": "0x280f1567d8cceb1b780a49bbdc7567f7dd345e6efec47c6967a980a1a2e97e5b"
+  }
+}
